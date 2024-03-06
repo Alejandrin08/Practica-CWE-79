@@ -1,1 +1,1 @@
-Práctica para demostrar la amenaza CWE-79
+Práctica para demostrar la vulnerabilidad CWE-79
